@@ -1,17 +1,17 @@
 # DataBank
- My First Data Base
+ My First Data Bank
 
-<p align="center">
-  <img src="/home/brenoman/Code/DataBank/arquivos/first-databank-DER.jpg" width="0%">
+<p>
+  <img src="arquivos/first-databank-DER.drawio.png">
   <br><br>
   <samp>
-    I'm Breno Henrique :wave:
+    Development of DataBank Skills :wave:
     <br><br>
-    developing programs after 40's
+    Part 1 - Database Modeling
     <br><br>
-    for a world without borders and connected by people :grin:
+    Part 2 :grin:
     <br><br>
-    passionate about programming :v:
+    Part 3 :v:
   </samp>
 </p>
 <br>
