@@ -19,6 +19,8 @@
   </samp>
  <br></br>
  </p>
+</details>
+
 <p>
   <img src="arquivos/first-databank-DER.drawio.png">
   <br><br>
