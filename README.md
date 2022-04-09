@@ -2,7 +2,7 @@
  My First Data Base
 
 <p align="center">
-  <img src="/home/brenoman/Code/DataBank/arquivos/first-databank-DER.jpg" width="30%">
+  <img src="/home/brenoman/Code/DataBank/arquivos/first-databank-DER.jpg" width="0%">
   <br><br>
   <samp>
     I'm Breno Henrique :wave:
