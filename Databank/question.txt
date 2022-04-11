@@ -1,0 +1,28 @@
+
+[entidades (produtos, clientes, vendas, estoque, etc)]
+
+PROBLEMA:  usuário precisa consultar:
+
+    quais produtos e qual quantidade foi adquirida (entidade especifica produto) - ENTIDADE A
+    cliente: joaozinho (entidade especifica clientes) - ENTIDADE B
+
+# Preciso que exista relaçao entre as entidades distintas
+
+    ENTIDADE A(quadrado) - ENTIDADE B(quadrado) > RELACIONAMENTO(losango)
+
+# grau do RELACIONAMENTO - qtde define o numero de entidades que participam do RELACIONAMENTO
+
+    podem ser:
+        grau 1 (unário ou recursivo)
+        grau 2 (binário)
+        grau 3 (ternário)
+        grau etc.
+
+# nomenclatura do RELACIONAMENTO
+    
+    geralmente se usa um verbo
+
+
+
+
+
